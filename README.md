@@ -1,2 +1,2 @@
 # Buzz-app-project
-assigned projectjct
+assigned project
